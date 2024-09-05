@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I am a Full Stack Developer with over three years of experience leading the development of large-scale software solutions. I have a proven track record of delivering intuitive, high-performance applications that not only meet but exceed client expectations. My expertise spans across both front-end and back-end technologies, allowing me to deliver projects ahead of schedule consistently. My technical proficiency includes HTML, CSS, JavaScript, React, Web APIs, Node.js, MySQL, Java, C#, Tailwind CSS, and Bootstrap.
+I am a Full Stack Developer with over three years of experience leading the development of large-scale software solutions. I have a proven track record of delivering intuitive, high-performance applications that meet and exceed client expectations. My expertise spans both front-end and back-end technologies, allowing me to deliver projects ahead of schedule consistently. My technical proficiency includes HTML, CSS, JavaScript, React, Web APIs, Node.js, MySQL, Java, C#, Tailwind CSS, and Bootstrap.
 
 
 * 🌍  I'm based in Sweden
-* 🖥️  See my portfolio at [MyPortfolio]([[http://myportfolio-1e821.web.app](https://rebrand.ly/ADaborPortfolio)]
+* 🖥️  See my portfolio at [MyPortfolio](https://rebrand.ly/ADaborPortfolio)
 * ✉️  You can contact me at [abodn70@hotmail.com](mailto:abodn70@hotmail.com)
 * 🧠  I'm learning Web development
 
