@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-A recent graduate student from Linnaeus University with a B.S. in Software Technology. During my time at Linnaeus University, I deepened my understanding of web development through coursework in front-end and back-end engineering, programming, and quality assurance. After I finished my study, I felt the need to improve myself as a programmer. Therefore, I kept watching tutorials and took many programming courses to Keep pace with new technologies and frameworks. My technical skills include HTML, CSS, JS, React JS, Web API, NodeJS, MySQL, Java, C#, Tailwind CSS, and Bootstrap
+I am a Full Stack Developer with over three years of experience leading the development of large-scale software solutions. I have a proven track record of delivering intuitive, high-performance applications that not only meet but exceed client expectations. My expertise spans across both front-end and back-end technologies, allowing me to consistently deliver projects ahead of schedule. My technical proficiency includes HTML, CSS, JavaScript, React, Web APIs, Node.js, MySQL, Java, C#, Tailwind CSS, and Bootstrap.
+
 
 * 🌍  I'm based in Sweden
 * 🖥️  See my portfolio at [MyPortfolio](http://myportfolio-1e821.web.app)
