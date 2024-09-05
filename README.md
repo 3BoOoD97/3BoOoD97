@@ -8,7 +8,7 @@ I am a Full Stack Developer with over three years of experience leading the deve
 
 
 * 🌍  I'm based in Sweden
-* 🖥️  See my portfolio at [MyPortfolio](http://myportfolio-1e821.web.app)
+* 🖥️  See my portfolio at [MyPortfolio]([http://myportfolio-1e821.web.app](https://rebrand.ly/ADaborPortfolio)
 * ✉️  You can contact me at [abodn70@hotmail.com](mailto:abodn70@hotmail.com)
 * 🧠  I'm learning Web development
 
