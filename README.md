@@ -10,7 +10,7 @@ Software Engineer with 3+ years of experience building scalable web applications
 * 🌍  I'm based in Sweden
 * 🖥️  See my portfolio at [MyPortfolio](https://rebrand.ly/ADaborPortfolio)
 * ✉️  You can contact me at [abodn70@hotmail.com](mailto:abodn70@hotmail.com)
-* 🧠  I'm learning Web development
+* 🧠  I'm learning Data Engineering
 
 ### Skills
 
