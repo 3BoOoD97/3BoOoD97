@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdalrhman Dabor
 ========================================================================================================================================
 
-Software Engineer
+Software Engineer transitioning into Data Engineering
 -----------------
 
-I am a Full Stack Developer with over three years of experience leading the development of large-scale software solutions. I have a proven track record of delivering intuitive, high-performance applications that meet and exceed client expectations. My expertise spans both front-end and back-end technologies, allowing me to deliver projects ahead of schedule consistently. My technical proficiency includes HTML, CSS, JavaScript, React, Web APIs, Node.js, MySQL, Java, C#, Tailwind CSS, and Bootstrap.
+Software Engineer with 3+ years of experience building scalable web applications as a Full-Stack Developer. Experienced in backend development, APIs, and database-driven systems. Currently transitioning into data engineering, focusing on Python, Pandas, and SQL to build data processing workflows and analytics pipelines.
 
 
 * 🌍  I'm based in Sweden
